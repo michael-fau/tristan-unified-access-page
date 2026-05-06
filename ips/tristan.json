@@ -267,11 +267,11 @@
     "Name": "eFPGA",
     "URL": "https://github.com/yongatek/eFPGA",
     "License": "Solderpad",
-    "Status": "In progress",
+    "Status": "Released",
     "Description": "An embedded FPGA IP to offload certain processor tasks and improve overall system performance",
     "Project": "TRISTAN",
     "WI": "WI3.4.5",
-    "Partners": "Yonga Technologies",
+    "Partners": "YONGATEK",
     "Comment": "",
     "Category": "Peripherals"
   },
